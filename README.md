@@ -1,3 +1,4 @@
+
 # Superstore Sales Analysis and Data Visualization
 
 ## Project Overview
@@ -64,3 +65,7 @@ python sales_report.py
 
 ## Conclusion
 This project demonstrates how Python data analysis and visualization can help identify sales trends, regional performance, and business opportunities.
+=======
+# CodeAlpha_Data-Visualization
+Superstore Sales Data Analysis and Visualization project using Python, Pandas, NumPy, Matplotlib, and Seaborn. Analyzes 9,994 retail transactions to identify sales trends, category performance, regional profitability, and discount patterns through interactive data exploration and visual charts.
+>>>>>>> 56ce2fd7592058427191be8653412066ed31e29e
